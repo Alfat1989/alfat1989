@@ -24,6 +24,8 @@ I\`m beginner frontend developer.
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/websitenow1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alfat1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/do_it_now.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alfat-gilmanshin-02a2821ab/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://t.me/AlfatGilm" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
+<a href="https://wa.me/+998992005718" target="_blank" rel="noreferrer"><img src="https://www.pnguniverse.com/wp-content/uploads/2020/08/whatsapp-original.png" width="32" height="32" /></a>
 </p>
 
 ### Badges
